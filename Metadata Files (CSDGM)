@@ -1,0 +1,33 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+<identifier identifierType="SIR">2013-5079</identifier> http://pubs.usgs.gov/sir/2013/5079
+<onlink>https://water.usgs.gov/lookup/getspatial?sir2013-5079_Groundwater_Depletion</onlink>
+<onlink>https://pubs.usgs.gov/sir/2013/5079/</onlink>
+<creators>
+<creator>
+<creatorName nameType="Personal">Konikow, Leonard F.</creatorName>
+<givenName>Leonard F.</givenName>
+<familyName>Konikow</familyName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Groundwater depletion in the United States (1900−2008)</title>
+</titles>
+<publisher xml:lang="en">U.S. Geological Survey</publisher>
+<pubYear>2013</pubYear>
+<pubplace>Reston, VA</pubplace>
+<subjects>
+<subject xml:lang="en">groundwater</subject>
+<subject xml:lang="en">United States </subject>
+<subject xml:lang="en">USGS</subject>
+<subject xml:lang="en">environment</subject>
+<subject xml:lang="en">hydrology</subject>
+<subject xml:lang="en">geological</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract"> A natural consequence of groundwater withdrawals is the removal of water from subsurface storage, but the overall rates and magnitude of groundwater depletion in the United States are not well characterized. This study evaluates long-term cumulative depletion volumes in 40 separate aquifers or areas and one land use category in the United States, bringing together information from the literature and from new analyses. Depletion is directly calculated using calibrated groundwater models, analytical approaches, or volumetric budget analyses for multiple aquifer systems. Estimated groundwater depletion in the United States during 1900–2008 totals approximately 1,000 cubic kilometers (km3). Furthermore, the rate of groundwater depletion has increased markedly since about 1950, with maximum rates occurring during the most recent period (2000–2008) when the depletion rate averaged almost 25 km3 per year (compared to 9.2 km3 per year averaged over the 1900–2008 timeframe).
+</description>
+</descriptions>
+</resource>
