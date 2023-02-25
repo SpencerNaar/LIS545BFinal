@@ -6,7 +6,7 @@
 
 
 
-2. Metadata
+2. Metadata [Pending To Do Addition for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet]. 
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-3. Data & Metadata Profile: USGS Water Mission Area NSDI Node
+3. Data & Metadata Profile: USGS Water Mission Area NSDI Node [Pending To Do Addition for Final Project: provide a brief discussion of what programs might be needed to read these file formats. Given that this collection includes a number of formats, some of which are more obscure (e.g. prj), this would be a useful detail for potential users]
 
 
 
