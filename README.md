@@ -6,7 +6,8 @@
 
 
 
-2. Metadata [Pending To Do Addition for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet]. 
+2. Metadata [Pending To Do Addition for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet. <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>]
 
 
 
