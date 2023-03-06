@@ -1,4 +1,34 @@
-1. Dataset Zip File: Groundwater depletion in the United States (1900-2008). Contents include: (1) Database Folder: Aquifers Folder & Basemap Folder and (2) Spreadsheets Folder
+SUMMARY
+
+The data in this project are long-term cumulative groundwater depletion rates and groundwater volume changes in the earth's subsurfaces. Data is collected from forty separate aquifer systems and one land use area within the United States between 1900 and 2008.
+
+DATA FILES
+
+These is one zip file which contains the dataset for the project "Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report by Leonard F. Knikow" published in 2013 by the U.S. Geological Survey.
+
+    sir2013-5079_Groundwater_Depletion_Study_Files.zip
+
+    Database Folder
+        Aquifers | 
+        Basemap
+    
+    Spreadsheets Folder
+        Depletion Average Rates (1961-1970)
+        Depletion Average Rates (2001-2008)
+        Depletion Volumes (1900-2000)
+        Depletion Volumes (1900-2008)
+        High Plains Summary: Depletion Average Rates & Depletion Volumes for Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas and Wyoming.
+        
+            
+
+
+
+
+
+
+
+
+ Contents include: (1) Database Folder: Aquifers Folder & Basemap Folder and (2) Spreadsheets Folder
 
 
 
