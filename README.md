@@ -4,7 +4,7 @@ The data in this project are long-term cumulative groundwater depletion rates an
 
 ### DATA FILES
 
-There is one zip file which contains the dataset for the project *Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report* by Leonard F. Knikow published in 2013 by the U.S. Geological Survey. The data is included as six .xls files in the Spreadsheets Folder and the metadata is included as multiple .dbf,.prj,.sbn,.sbx,.shp,.shx and xml files in the Database Folder under Aquifers and Basemap. They are structured according to FGDC Content Standards for Digital Geospatial Metadata.
+There is one zip file which contains the dataset for the project *Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report* by Leonard F. Knikow published in 2013 by the U.S. Geological Survey. The data is included as six .xls files in the Spreadsheets Folder and the metadata is included as multiple .dbf,.prj,.sbn,.sbx,.shp,.shx and xml files in the Database Folder under Aquifers and Basemap. They are structured according to [FGDC Content Standards for Digital Geospatial Metadata.](https://www.fgdc.gov/metadata/csdgm-standard)
 
 **sir2013-5079_Groundwater_Depletion_Study_Files.zip**
     
@@ -26,14 +26,13 @@ This PDF file contains definitions for the column headings in the six .xls files
 
 ### METADATA
 
-[Pending - Additional info needed for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet. <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
-    <metstdv>FGDC-STD-001-1998</metstdv>] software required to view.
+
     
 ### FINAL REPORT
 
-This PDF file containts the following components:
-- Data & metadata profile
-- Repository profile
+<ins>This PDF file containts the following components:</ins>
+- Data & metadata profile - [Groundwater depletion in the United States (1900-2008)| USGS Water Mission Area NSDI Node](https://water.usgs.gov/GIS/metadata/usgswrd/XML/sir2013-5079_Groundwater_Depletion.xml#stdorder)
+- Repository profile - [USGS National Water Information System](https://waterdata.usgs.gov/nwis)
 - Recommended data citation
 - Long-term digital preservation considerations
 - Copyright license statement
