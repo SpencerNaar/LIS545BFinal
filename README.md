@@ -1,10 +1,10 @@
-SUMMARY
+### SUMMARY
 
 The data in this project are long-term cumulative groundwater depletion rates and groundwater volume changes in the earth's subsurfaces. Data is collected from forty separate aquifer systems and one land use area within the United States between 1900 and 2008.
 
-DATA FILES
+### DATA FILES
 
-There is one zip file which contains the dataset for the project "Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report by Leonard F. Knikow" published in 2013 by the U.S. Geological Survey. The data is included as six .xls files in the Spreadsheets Folder and the metadata is included as multiple .dbf,.prj,.sbn,.sbx,.shp,.shx and xml files in the Database Folder under Aquifers and Basemap. They are structured according to FGDC Content Standards for Digital Geospatial Metadata.
+There is one zip file which contains the dataset for the project *Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report* by Leonard F. Knikow published in 2013 by the U.S. Geological Survey. The data is included as six .xls files in the Spreadsheets Folder and the metadata is included as multiple .dbf,.prj,.sbn,.sbx,.shp,.shx and xml files in the Database Folder under Aquifers and Basemap. They are structured according to FGDC Content Standards for Digital Geospatial Metadata.
 
     sir2013-5079_Groundwater_Depletion_Study_Files.zip
     
@@ -20,6 +20,11 @@ There is one zip file which contains the dataset for the project "Groundwater de
         Aquifers: Metadata on aquifer systems and land use area.
         Basemap: Metadata on groundwater basemap.
 
+### DATA DEFINITIONS
+
+This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder.
+
+### Metadata
 
 
 
