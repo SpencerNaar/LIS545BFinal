@@ -20,9 +20,9 @@ There is one zip file which contains the dataset for the project *Groundwater de
         Aquifers: Metadata on aquifer systems and land use area.
         Basemap: Metadata on groundwater basemap.
 
-### 2) DATA DEFINITIONS
+### 2) DATA DEFINITIONS AND CONVERSION FACTORS
 
-This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder.
+This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder and conversion factors for estimated data calculations.
 
 ### 3) METADATA
 
