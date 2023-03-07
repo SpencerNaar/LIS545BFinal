@@ -6,7 +6,7 @@ The data in this project are long-term cumulative groundwater depletion rates an
 
 There is one zip file which contains the dataset for the project *Groundwater depletion in the United States (1900-2008): A Scientific Investigations Report* by Leonard F. Knikow published in 2013 by the U.S. Geological Survey. The data is included as six .xls files in the Spreadsheets Folder and the metadata is included as multiple .dbf,.prj,.sbn,.sbx,.shp,.shx and xml files in the Database Folder under Aquifers and Basemap. They are structured according to FGDC Content Standards for Digital Geospatial Metadata.
 
-    sir2013-5079_Groundwater_Depletion_Study_Files.zip
+**sir2013-5079_Groundwater_Depletion_Study_Files.zip**
     
     Spreadsheets Folder
         Depletion Average Rates (1961-1970)
@@ -24,25 +24,26 @@ There is one zip file which contains the dataset for the project *Groundwater de
 
 This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder.
 
-### Metadata
+### METADATA
 
+[Pending - Additional info needed for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet. <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>] software required to view.
+    
+### FINAL REPORT
 
+This PDF file containts the following components:
+- Data & metadata profile
+- Repository profile
+- Recommended data citation
+- Long-term digital preservation considerations
+- Copyright license statement
+- Ethical considerations
 
-2. Metadata [Pending - Additional info needed for Final Project: FGDC standard is now considered out of date, but it is still used across USGS data centers. USGS supposedly moving to the newer ISO 19115 standard but this has not occured yet. <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
-    <metstdv>FGDC-STD-001-1998</metstdv>]
-
-
-3. Data & Metadata Profile: USGS Water Mission Area NSDI Node [Pending - Additional info needed for Final Project: provide a brief discussion of what programs might be needed to read these file formats. Given that this collection includes a number of formats, some of which are more obscure (e.g. prj), this would be a useful detail for potential users]
-
-
-
-
-
-
-4. Repository Profile: USGS National Water Information System
-
-
-
-
-
-5. Additional metadata including data citation, preservation, copyright, and ethics.
+Final Report File
+This is one word document that contains the following components:
+Data and Metadata Profile: USGS Water Mission Area NSDI Node
+Repository Profile: USGS National Water Information System
+Recommended Data Citation
+Long-Term Preservation Considerations
+Copyright License Statement
+Human Rights Considerations
