@@ -22,7 +22,7 @@ There is one zip file which contains the dataset for the project *Groundwater de
 
 ### 2) DATA DEFINITIONS AND CONVERSION FACTORS
 
-This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder and conversion factors for estimated data calculations.
+This PDF file contains definitions for the column headings in the six .xls files in the Spreadsheets Folder, methodology explanations for estimating groundwater depletion, and conversion factors for estimated data calculations.
 
 ### 3) METADATA
 
