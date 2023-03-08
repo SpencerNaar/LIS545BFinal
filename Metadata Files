@@ -1,7 +1,4 @@
 <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
-<identifier identifierType="SIR">2013-5079</identifier> http://pubs.usgs.gov/sir/2013/5079
-<onlink>https://water.usgs.gov/lookup/getspatial?sir2013-5079_Groundwater_Depletion</onlink>
-<onlink>https://pubs.usgs.gov/sir/2013/5079/</onlink>
 <creators>
 <creator>
 <creatorName nameType="Personal">Konikow, Leonard F.</creatorName>
