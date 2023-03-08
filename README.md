@@ -25,7 +25,7 @@ This PDF file contains definitions for the column headings in the six .xls files
 
 ### 3) METADATA
 
-
+Structured discovery-level metadata using FGDC Content Standards for Digital Geospatial Metadata. 
     
 ### 4) FINAL REPORT
 
